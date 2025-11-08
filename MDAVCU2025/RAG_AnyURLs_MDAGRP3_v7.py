@@ -33,7 +33,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DOCUMENTS_FOLDER = os.path.join(BASE_DIR, "Data")
 CHROMA_DB_PATH = os.path.join(BASE_DIR, "chroma_db")
 CHROMA_HISTORY_PATH = os.path.join(BASE_DIR, "chroma_history")
-OPENAI_API_KEY = "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"
+##OPENAI_API_KEY = "MyKEY"
 
 # Default URLs for different categories
 DEFAULT_URLS = {
